@@ -1,4 +1,4 @@
-export default function Layout(props) {
+export default function Layout(props:any) {
     return (
         <form>
             <h2>Create</h2>
